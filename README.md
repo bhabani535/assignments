@@ -1,1 +1,1 @@
-the first  assignment file is the web assignment2 submitted in time period
+the first  assignments.ipynb file is the web assignment2 submitted in time period
